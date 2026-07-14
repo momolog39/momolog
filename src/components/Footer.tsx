@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-5xl mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div>
-            <h3 className="font-bold text-pink-500 mb-2">桃川ブログ</h3>
+            <h3 className="font-bold text-pink-500 mb-2">モモログ</h3>
             <p className="text-sm text-gray-500">
               元芸能マネージャー桃川の、聞きにくいことぜんぶ答えるブログ
             </p>
@@ -63,6 +63,16 @@ export default function Footer() {
             <ul className="space-y-1 text-sm">
               <li>
                 <a
+                  href="https://line.me/ti/p/MBbG6mAym2"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-500 hover:text-pink-500"
+                >
+                  LINE: 桃川に相談する
+                </a>
+              </li>
+              <li>
+                <a
                   href="https://www.instagram.com/barbie0mint/"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -73,19 +83,19 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://line.me/ti/p/MBbG6mAym2"
+                  href="https://x.com/barbie0mint"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-500 hover:text-pink-500"
                 >
-                  LINE: 桃川に相談する
+                  X: @barbie0mint
                 </a>
               </li>
             </ul>
           </div>
         </div>
         <div className="mt-8 pt-4 border-t border-pink-100 text-center text-xs text-gray-400">
-          &copy; {new Date().getFullYear()} 桃川ブログ All rights reserved.
+          &copy; {new Date().getFullYear()} モモログ All rights reserved.
         </div>
       </div>
     </footer>

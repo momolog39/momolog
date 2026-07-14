@@ -11,7 +11,7 @@ export default function Header() {
     <header className="bg-white/80 backdrop-blur-sm border-b border-pink-100 sticky top-0 z-50">
       <div className="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between">
         <Link href="/" className="text-lg font-bold text-pink-500">
-          桃川ブログ
+          モモログ
         </Link>
         <nav className="hidden md:flex items-center gap-5 text-sm">
           {CATEGORIES.map((c) => (

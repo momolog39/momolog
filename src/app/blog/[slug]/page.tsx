@@ -62,7 +62,7 @@ export default async function BlogPost({
     },
     publisher: {
       "@type": "Organization",
-      name: "桃川ブログ",
+      name: "モモログ",
     },
   };
 

@@ -8,16 +8,16 @@ export const metadata: Metadata = {
     process.env.NEXT_PUBLIC_BASE_URL || "https://momokawa-blog.vercel.app"
   ),
   title: {
-    default: "桃川ブログ | メンエス・風俗業界の情報発信ブログ",
-    template: "%s | 桃川ブログ",
+    default: "モモログ | メンエス・風俗業界の情報発信ブログ",
+    template: "%s | モモログ",
   },
   description:
     "元芸能マネージャー桃川が、メンズエステ・風俗業界のリアルな情報をお届け。メンエス求人、セラピスト募集、業界の基礎知識まで。",
   openGraph: {
     type: "website",
     locale: "ja_JP",
-    siteName: "桃川ブログ",
-    title: "桃川ブログ | メンエス・風俗業界の情報発信ブログ",
+    siteName: "モモログ",
+    title: "モモログ | メンエス・風俗業界の情報発信ブログ",
     description:
       "元芸能マネージャー桃川が、メンズエステ・風俗業界のリアルな情報をお届け。",
     images: [{ url: "/momo-header.jpg", width: 1200, height: 630 }],
