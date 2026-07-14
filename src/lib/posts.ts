@@ -13,6 +13,7 @@ export type PostMeta = {
   categorySlug: string;
   description: string;
   articleNumber: number;
+  image: string;
 };
 
 export type Post = PostMeta & {
