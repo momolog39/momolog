@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { getPostBySlug, getAllSlugs, getPostsByCategory, CATEGORIES } from "@/lib/posts";
 import { notFound } from "next/navigation";
 import Breadcrumb from "@/components/Breadcrumb";
@@ -86,13 +87,24 @@ export default async function BlogPost({
                 { label: post.title },
               ]}
             />
-            <span className="inline-block text-xs font-medium text-pink-500 bg-pink-50 px-3 py-1 rounded-full mb-3">
-              {post.category}
-            </span>
-            <h1 className="text-2xl md:text-3xl font-bold text-gray-800 leading-tight mb-6">
-              {post.title}
-            </h1>
-            <hr className="border-pink-100 mb-6" />
+            <div className="relative rounded-xl overflow-hidden mb-6 aspect-[2/1]">
+              <Image
+                src={post.image}
+                alt={post.title}
+                fill
+                className="object-cover"
+                priority
+              />
+              <div className="absolute inset-0 bg-black/50" />
+              <div className="absolute inset-0 flex flex-col justify-end p-5 md:p-8">
+                <span className="inline-block self-start text-xs font-bold text-white bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full mb-3">
+                  {post.category}
+                </span>
+                <h1 className="text-xl md:text-2xl lg:text-3xl font-bold text-white leading-tight drop-shadow-lg">
+                  {post.title}
+                </h1>
+              </div>
+            </div>
             <div
               className="prose max-w-none"
               dangerouslySetInnerHTML={{ __html: post.contentHtml }}

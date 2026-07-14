@@ -5,7 +5,7 @@ category: "桃川の日常"
 categorySlug: "daily-life"
 description: "はじめまして。桃川（ももかわ）です。"
 articleNumber: 1
-image: "/blog/daily1.jpg"
+image: "/blog/article_01.jpg"
 ---
 
 はじめまして。桃川（ももかわ）です。

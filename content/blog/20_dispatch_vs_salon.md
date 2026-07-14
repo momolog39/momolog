@@ -5,7 +5,7 @@ category: "メンエス"
 categorySlug: "mens-esthe"
 description: "こんにちは、桃川です。"
 articleNumber: 20
-image: "/blog/esthe1.jpg"
+image: "/blog/article_20.jpg"
 ---
 
 こんにちは、桃川です。

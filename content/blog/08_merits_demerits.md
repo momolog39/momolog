@@ -5,7 +5,7 @@ category: "働く前に知るべきこと"
 categorySlug: "before-working"
 description: "こんにちは、桃川です。"
 articleNumber: 8
-image: "/blog/work1.jpg"
+image: "/blog/article_08.jpg"
 ---
 
 こんにちは、桃川です。

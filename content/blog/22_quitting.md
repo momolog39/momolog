@@ -5,7 +5,7 @@ category: "健康・安全"
 categorySlug: "health-safety"
 description: "こんにちは、桃川です。"
 articleNumber: 22
-image: "/blog/work1.jpg"
+image: "/blog/article_22.jpg"
 ---
 
 こんにちは、桃川です。

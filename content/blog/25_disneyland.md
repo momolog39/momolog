@@ -5,7 +5,7 @@ category: "桃川の日常"
 categorySlug: "daily-life"
 description: "こんにちは、桃川です。"
 articleNumber: 25
-image: "/blog/theme1.jpg"
+image: "/blog/article_25.jpg"
 ---
 
 こんにちは、桃川です。

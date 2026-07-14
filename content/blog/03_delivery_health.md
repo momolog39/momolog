@@ -5,7 +5,7 @@ category: "業界基礎知識"
 categorySlug: "industry-basics"
 description: "こんにちは、桃川です。"
 articleNumber: 3
-image: "/blog/industry2.jpg"
+image: "/blog/article_03.jpg"
 ---
 
 こんにちは、桃川です。
