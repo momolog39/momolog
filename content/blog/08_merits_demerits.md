@@ -44,6 +44,14 @@ image: "/blog/work1.jpg"
 
 もちろんスタッフや他のキャストとの関係はありますが、基本的には個人プレーの仕事。そこが気楽だという人は多いです。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>メリットだけ見ると魅力的に見えるけど、ここからが本題です。デメリットも必ず読んでください。</p>
+</div>
+</div>
+
 
 ## デメリット
 
@@ -63,6 +71,14 @@ image: "/blog/work1.jpg"
 嫌なお客さんに当たった時のストレス、自分の身体を「商品」として扱われる感覚に対する違和感、誰にも相談できない孤独感。これらが積み重なると、メンタルを壊す原因になります。
 
 僕が相談を受けてきた中でも、「稼げてるけど精神的にしんどい」という声は本当に多かった。収入と引き換えに何を支払っているのかは、冷静に考える必要があります。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「稼げてるけどしんどい」って声、本当に多かった。お金の問題だけじゃないんです。</p>
+</div>
+</div>
 
 ### 身バレのリスクがある
 
@@ -100,6 +116,14 @@ image: "/blog/work1.jpg"
 実際の収入は、業種・ランク・容姿・接客力・出勤日数・指名数などによって大きく変わります。入店してすぐに高収入が得られるとは限らないし、思ったより稼げなかったというケースも普通にあります。
 
 求人に書いてある数字をそのまま信じて計画を立てるのは危険です。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>求人の数字は「最大値」。平均じゃないし、自分がそうなれる保証もない。冷静にいきましょう。</p>
+</div>
+</div>
 
 
 ## 風俗以外の選択肢を知っておくこと

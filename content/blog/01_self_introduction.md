@@ -14,6 +14,14 @@ image: "/blog/daily1.jpg"
 
 まずは「お前誰だよ」という話だと思うので、自己紹介させてください。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>聞きにくいことこそ、ちゃんと伝えたい。そんな思いでこのブログを始めました！</p>
+</div>
+</div>
+
 
 ## 芸能マネージャー時代のこと
 
@@ -45,6 +53,14 @@ image: "/blog/daily1.jpg"
 ネットで調べても、求人サイトの広告みたいな記事か、逆に「風俗は絶対やめろ」みたいな極端な意見ばかり。「実際のところどうなの？」に答えてくれる情報がほとんどない。
 
 だったら、自分が発信した方がいいなと思いました。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「実際どうなの？」に答える情報が少なすぎる。それが発信を始めた一番の理由です。</p>
+</div>
+</div>
 
 
 ## 今やっていること
@@ -80,6 +96,14 @@ image: "/blog/daily1.jpg"
 このブログのスタンスは「中立」です。
 
 「絶対やった方がいい」とも「絶対やめた方がいい」とも言いません。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>メリットもデメリットも正直に。判断材料を届けるのが僕の役割です。</p>
+</div>
+</div>
 
 メリットもデメリットも正直に書きます。その上で、自分で判断できるだけの材料を提供するのが、このブログの役割だと思っています。
 

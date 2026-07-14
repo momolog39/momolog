@@ -33,6 +33,14 @@ image: "/blog/theme1.jpg"
 
 **桃川の行き方：** インディ・ジョーンズに乗った後、そのままの流れで行くのがスムーズ。レイジングスピリッツの近くです。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>ユカタンは僕のシーでの「ホーム」です。奥まった場所にあるから、存在を知らない人が多いのが逆にありがたい。</p>
+</div>
+</div>
+
 
 ## ② カスバ・フードコート
 
@@ -45,6 +53,14 @@ image: "/blog/theme1.jpg"
 店内は天井が高くて広々としていて、アラビアンな装飾がきれい。席数も多いので、混雑日でも回転が早い。「とりあえず座りたい」「ちゃんと食べたい」「でも並びたくない」を全部満たしてくれます。
 
 **桃川のおすすめ：** ここに来たらチキンカレーかビーフカレーを頼んでください。間違いないです。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「フードコート」という名前にだまされないで。ここのカレーはパーク内でもトップクラスのコスパです。</p>
+</div>
+</div>
 
 
 ## ③ ケープコッド・クックオフ
@@ -69,6 +85,14 @@ image: "/blog/theme1.jpg"
 **モバイルオーダーを活用する。** 対応しているレストランなら、並ばずに注文できます。歩きながら注文しておいて、出来上がり通知が来たら取りに行くだけ。これを使うかどうかで体験がまったく変わります。
 
 **食べ歩きメニューを上手く使う。** 「座ってがっつり食べる」を1日3回やる必要はありません。朝はチュロスやポップコーン、昼にしっかりレストランで食べて、夜はまた軽め……みたいな配分の方が、アトラクションにも時間を使えます。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>ピーク時間をずらす＋モバイルオーダー、この2つだけで待ち時間が激減します。年パス勢の知恵、ぜひ使ってみてください。</p>
+</div>
+</div>
 
 
 ## たまにはこういう記事も

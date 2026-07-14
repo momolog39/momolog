@@ -29,6 +29,14 @@ image: "/blog/theme2.jpg"
 
 逆に昼の12時前後は太陽が真上にあるので、影がきつくて写真が平坦になりがち。ランチの時間帯はレストランで過ごして、写真は朝夕に集中するのが効率的です。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>写真のクオリティを一番左右するのは、カメラの性能じゃなくて「光」です。朝と夕方を狙うだけで全然違う。</p>
+</div>
+</div>
+
 ### ② 人が写り込まない角度を探す
 
 パークは人が多いので、何も考えずに撮ると背景に人が写り込みます。
@@ -66,6 +74,14 @@ image: "/blog/theme2.jpg"
 
 **背景にパークの景色を入れる。** 食べ物だけだと「どこで食べたか」がわからない。背景にお城やハーバーが少し入るだけで、ディズニーで食べた特別感が出ます。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>フードは「斜め45度＋自然光＋背景にパーク」。この3つだけ意識すれば、映える写真になります。</p>
+</div>
+</div>
+
 ### 夜景
 
 夜のパークは本当にきれい。でもスマホの夜景撮影は少しコツがいります。
@@ -94,6 +110,14 @@ image: "/blog/theme2.jpg"
 **ロストリバーデルタの橋の上。** インディ・ジョーンズの近くにある石造りの橋。ここから川と遺跡を撮ると、ジャングルの探検記録みたいな雰囲気になる。
 
 **アクアスフィア（入口の地球儀）の裏側。** 正面からは誰でも撮りますが、裏側に回ると人が少なくて、別の角度で地球儀が撮れます。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>定番スポットも良いけど、人が少ない穴場を見つけると撮影がもっと楽しくなります。自分だけの構図を探してみて。</p>
+</div>
+</div>
 
 
 ## 最後に

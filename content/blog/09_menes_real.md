@@ -48,6 +48,14 @@ image: "/blog/esthe1.jpg"
 
 出張型は移動が発生する分、時間の拘束が読みにくい。マンション型は待機場所があるので、複数の予約をこなしやすい。それぞれ一長一短です。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>出張型かマンション型か、自分の生活スタイルに合う方を選ぶのが大事です。</p>
+</div>
+</div>
+
 
 ## リアルな収入の話
 
@@ -64,6 +72,14 @@ image: "/blog/esthe1.jpg"
 風俗と比べると単価は低い。これは事実です。
 
 ただし、身体的・精神的な負担を考えると、「稼いだお金の"実質的な価値"」はメンエスの方が高いと僕は思っています。風俗で月50万稼いでも、身体を壊して休む期間が入ればトータルでは落ちる。メンエスで月30万を安定して12ヶ月続けた方が、年間で見れば結果的に多く残ることもあります。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>単価だけで比べると低く見えるけど、「長く安定して稼げる」ことの価値は大きい。トータルで考えてほしい。</p>
+</div>
+</div>
 
 
 ## どうやって稼ぐのか
@@ -126,6 +142,14 @@ image: "/blog/esthe1.jpg"
 メンエスは、爆発的に稼げる仕事ではありません。
 
 でも、身体を壊さず、心を壊さず、手に職をつけながら安定して収入を得られる。そういう仕事です。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>身体も心も壊さずに、手に職をつけながら稼げる。それがメンエスの一番の強みです。</p>
+</div>
+</div>
 
 興味がある方、「自分に合うかどうか聞いてみたい」という方は、気軽に連絡ください。
 

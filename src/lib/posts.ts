@@ -47,7 +47,7 @@ export async function getPostBySlug(slug: string): Promise<Post> {
   const fileContents = fs.readFileSync(filePath, "utf8");
   const { data, content } = matter(fileContents);
   const cleaned = stripCtaBlock(content);
-  const processed = await remark().use(html).process(cleaned);
+  const processed = await remark().use(html, { sanitize: false }).process(cleaned);
   return {
     ...(data as PostMeta),
     contentHtml: processed.toString(),

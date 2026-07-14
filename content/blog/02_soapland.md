@@ -28,6 +28,14 @@ image: "/blog/industry1.jpg"
 
 この仕組みを知っておくことは、働く側にとっても大事です。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>法律上は「個人事業主」として働く形。この建前を知っておくだけで、お店との関係性の理解がまったく変わります。</p>
+</div>
+</div>
+
 
 ## どこにあるの？
 
@@ -61,6 +69,14 @@ image: "/blog/industry1.jpg"
 **高級店** ― 料金が高い分、接客人数は少なめ。その代わり、容姿・接客スキル・会話力のすべてが求められる。面接の倍率も高い。
 
 ランクによって給与水準もお客さんの層もまったく違うので、「ソープで働く」と一括りにはできません。自分がどのランクに合っているかを客観的に判断することが、お店選びの第一歩です。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「稼げそうだから高級店」ではなく、自分に合ったランクを選ぶのが長く続けるコツです。</p>
+</div>
+</div>
 
 
 ## サービスの内容
@@ -105,6 +121,14 @@ image: "/blog/industry1.jpg"
 でも、その分だけ身体的・精神的な負荷も大きい業種です。「高収入＝正解」とは限らないし、負担の少ない仕事で長く安定して稼ぐ方が、トータルでは良い結果になることも多い。
 
 たとえばメンズエステは、性的サービスがないリラクゼーションの仕事です。ソープほどの単価にはなりませんが、身体への負担が少なく、未経験からでも始められます。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「高収入＝正解」とは限らない。無理なく続けられる働き方が、結果的に一番稼げることも多いです。</p>
+</div>
+</div>
 
 芸能系の仕事に興味がある人には、提携プロダクションを通じた紹介もできます。
 

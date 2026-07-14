@@ -27,6 +27,14 @@ image: "/blog/industry2.jpg"
 
 つまり、風俗と水商売は別物だけど、どちらもナイトワークの一部ということです。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>風俗＝性的サービス、水商売＝お酒の接客。この2つは別物で、ナイトワークはその両方を含む総称です。</p>
+</div>
+</div>
+
 
 ## 水商売に分類されるもの
 
@@ -74,6 +82,14 @@ image: "/blog/industry2.jpg"
 
 だから、メンエスで働いた経歴は「風俗で働いた」ことにはなりません。これは将来のキャリアを考える上でも大きなポイントです。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>メンエスは風俗でも水商売でもない。法律上はリラクゼーションサロンと同じ扱いなので、将来のキャリアにも影響しません。</p>
+</div>
+</div>
+
 
 ## 法律的な違い
 
@@ -114,6 +130,14 @@ image: "/blog/industry2.jpg"
 - 日給1.5万〜2.7万円程度（1日3接客の場合）
 
 風俗が最も高収入ですが、その分リスクも高い。水商売はお酒が入る分、生活リズムへの影響が大きい。メンエスはリスクが低い代わりに収入の上限も控えめ。トレードオフの関係です。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>収入が高い＝リスクも高い。これはどの業種にも共通するトレードオフ。自分の優先順位に合わせて選ぶことが大事です。</p>
+</div>
+</div>
 
 
 ## 選ぶ基準

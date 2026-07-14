@@ -29,6 +29,14 @@ image: "/blog/theme3.jpg"
 
 乗りたいアトラクションに3回連続で乗ってもいいし、気に入ったレストランで1時間ぼーっとしてもいい。急にお土産屋さんに30分入り浸ってもいい。誰にも気を使わなくていい自由は、思っている以上に快適です。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>ひとりディズニー最大のメリットは「全部自分で決められる」こと。この自由は一度味わうとクセになります。</p>
+</div>
+</div>
+
 ### 写真に集中できる
 
 前の記事でも書きましたが、パークの写真を本気で撮ろうと思うと、1人の方が圧倒的に集中できます。
@@ -68,6 +76,14 @@ image: "/blog/theme3.jpg"
 
 ベンチに座ってポップコーンを食べながら、ハーバーの景色を眺める。それだけで十分に楽しい。何もしない時間に罪悪感を持たなくていい。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「何もしない」も立派なパークの楽しみ方。全部回らなきゃという呪縛から解放されると、一気に楽になります。</p>
+</div>
+</div>
+
 ### ショーやパレードを見る
 
 1人だと場所取りが楽。小さなスペースにすっと入れるので、直前に来てもいいポジションで見られることがある。
@@ -90,6 +106,14 @@ image: "/blog/theme3.jpg"
 **「キャラクターグリーティングに1人で並ぶのは？」**
 
 全然OK。1人の方がキャラクターとの時間をじっくり楽しめます。キャラクターも1人のゲストには特に丁寧にリアクションしてくれることが多い気がします。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>恥ずかしいのは最初だけ。パークに入れば誰もあなたのことを気にしていません。思い切って行ってみて。</p>
+</div>
+</div>
 
 
 ## まとめ

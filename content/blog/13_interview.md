@@ -52,6 +52,14 @@ image: "/blog/work1.jpg"
 
 NG項目を聞いてくれないお店、聞いても「うちではそういうのは対応できない」と突っぱねるお店は要注意です。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>NGを遠慮なく言えるかどうかは、お店の良し悪しを見極める大事な判断材料です。</p>
+</div>
+</div>
+
 ### 家族構成・同居人
 
 「一人暮らしか」「家族と住んでいるか」「彼氏がいるか」。
@@ -118,6 +126,14 @@ NG項目を聞いてくれないお店、聞いても「うちではそういう
 
 聞きにくいことほど、面接の段階で確認しておくのが大事です。入ってから「聞いてない」となるのが一番困る。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>面接は「選ばれる場」じゃなくて「自分がお店を選ぶ場」。質問は遠慮しないで。</p>
+</div>
+</div>
+
 
 ## こういう面接は危険
 
@@ -131,6 +147,14 @@ NG項目を聞いてくれないお店、聞いても「うちではそういう
 - 面接官の態度が威圧的、または馴れ馴れしすぎる
 
 最初から違和感があるお店は、入った後にもっと大きな問題が出てくる可能性が高いです。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>直感で「なんか変だな」と思ったら、それは正しい。違和感を無視しないでください。</p>
+</div>
+</div>
 
 
 ## メンエスの面接について

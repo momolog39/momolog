@@ -25,6 +25,14 @@ image: "/blog/industry1.jpg"
 
 ただし、「ヘルス」という言葉自体はかなり広い概念で、営業形態によっていくつかの種類に分かれます。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>名前が似てて混乱しますよね。ざっくり言うと「どこで接客するか」で名前が変わるイメージです。</p>
+</div>
+</div>
+
 
 ## 箱ヘル（店舗型ヘルス）
 
@@ -63,6 +71,14 @@ image: "/blog/industry1.jpg"
 デリヘルについては別の記事で詳しく書いたので簡潔に。
 
 お客さんの指定する場所（ホテルまたは自宅）にキャストが出向く形態です。無店舗型なので開業ハードルが低く、店舗数が最も多い。自宅待機ができる反面、知らない場所に1人で行くリスクがあります。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>箱ヘル・ホテヘル・デリヘルの違いは「場所」。安全性と自由度のバランスが変わります。</p>
+</div>
+</div>
 
 
 ## ピンサロ
@@ -118,6 +134,14 @@ image: "/blog/industry1.jpg"
 **そもそも性的サービスに抵抗がある** → メンズエステ（風俗ではない）
 
 どの業種にもメリット・デメリットがあるので、自分の事情と照らし合わせて考えてみてください。迷ったら相談にのります。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「自分が何を優先するか」を決めれば、業種は自然と絞れます。迷ってるなら気軽に聞いてください。</p>
+</div>
+</div>
 
 📩 Instagram：[@barbie0mint](https://www.instagram.com/barbie0mint/)
 📩 LINE：[桃川に相談する](https://line.me/ti/p/MBbG6mAym2)

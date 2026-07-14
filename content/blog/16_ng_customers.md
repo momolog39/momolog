@@ -50,6 +50,14 @@ image: "/blog/health2.jpg"
 
 「お金を払っている側がえらい」ということは絶対にない。サービスにはルールがあり、そのルールの中で最大限の接客をすればいい。ルールを破ろうとする人に合わせる義務はないです。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>大前提として「自分の安全が最優先」。お客さんの機嫌より、自分の身を守ることの方がずっと大事です。</p>
+</div>
+</div>
+
 
 ## 具体的な断り方
 
@@ -98,6 +106,14 @@ NGなお客さんに遭遇したら、たとえ自分で対処できた場合で
 
 「大丈夫、慣れてるから」と無理をしないでください。信頼できる人に話を聞いてもらう、その日は早めに帰る、翌日は休むなど、自分を守る行動をとってください。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>トラブルは「報告・記録・セルフケア」の3点セット。自分で解決できても、必ずお店に共有してください。</p>
+</div>
+</div>
+
 
 ## お店の対応が悪い場合
 
@@ -110,6 +126,14 @@ NGなお客さんに遭遇したら、たとえ自分で対処できた場合で
 こういう対応をするお店は、キャストを守る気がありません。
 
 お店が味方になってくれないなら、そのお店で働き続ける必要はないです。他にお店はいくらでもある。自分を守ってくれない環境にいる理由はありません。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「我慢して」と言うお店は、あなたを守る気がないお店です。そういう環境からは離れてOK。</p>
+</div>
+</div>
 
 
 ## メンエスのNGお客さん対応

@@ -41,6 +41,14 @@ image: "/blog/health1.jpg"
 
 誰にも言わないのが最も確実な対策です。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「信頼できる人にだけ」が一番バレるパターン。誰にも言わないのが最強の対策です。</p>
+</div>
+</div>
+
 
 ## 仕事中の対策
 
@@ -103,6 +111,14 @@ image: "/blog/health1.jpg"
 
 シークレットモード（プライベートブラウズ）を使うか、こまめに履歴を消す習慣をつけてください。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>電話帳の同期オフ・位置情報オフ・検索履歴の削除。スマホの設定を見直すだけで防げる身バレは本当に多いです。</p>
+</div>
+</div>
+
 
 ## いざという時の対策
 
@@ -121,6 +137,14 @@ image: "/blog/health1.jpg"
 店舗型であれば、マジックミラーやモニターで事前にお客さんの顔を確認できるお店もあります。面接時に「NGリスト」を登録できるかどうか確認してください。
 
 デリヘルの場合は事前確認が難しいですが、万が一知り合いに遭遇した場合の対処法をお店と事前に決めておくと安心です。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>カバーストーリーとアリバイ対策は「バレてから考える」では遅い。働き始める前に準備しておきましょう。</p>
+</div>
+</div>
 
 
 ## メンエスは身バレリスクが低い

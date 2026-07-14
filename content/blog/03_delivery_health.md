@@ -34,6 +34,14 @@ image: "/blog/industry2.jpg"
 
 その結果、大手グループから個人経営まで、ものすごい数のデリヘル店が存在しています。選択肢が多いのはいいことですが、裏を返せば質のバラつきも大きいということです。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>お店の数が多い＝いいお店も多いけど、ハズレも多い。だからこそお店選びが超重要です。</p>
+</div>
+</div>
+
 
 ## サービスの内容
 
@@ -52,6 +60,14 @@ image: "/blog/industry2.jpg"
 これはソープとの大きな違い。ソープではキャストが個人事業主という建前で本番行為が行われますが、デリヘルではキャストとお店の関係性が異なるため、お店として本番行為が発覚すると法律上の問題になります。
 
 ただし現実には、お客さんから本番を求められるケースはあります。断り方やトラブルへの対処法は、お店の研修やスタッフのサポート体制によって差が出るところです。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>本番NGのルールを守ってくれるお店かどうかは、お店選びで一番確認してほしいポイントです。</p>
+</div>
+</div>
 
 
 ## 働く側から見たメリット
@@ -91,6 +107,14 @@ image: "/blog/industry2.jpg"
 **NGルールが明確か。** 「本番行為は絶対NG」「お客さんからの迷惑行為にはお店が対応する」といったルールを明文化しているお店は、キャストを守る意識があると判断できます。
 
 **体験入店できるか。** いきなり本入店ではなく、体験入店で雰囲気を見られるお店を選びましょう。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>求人情報だけで決めないこと。体験入店で「スタッフの対応」と「NGルールの徹底度」を自分の目で確かめてください。</p>
+</div>
+</div>
 
 
 ## デリヘル以外の選択肢

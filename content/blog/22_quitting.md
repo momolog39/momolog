@@ -33,6 +33,14 @@ image: "/blog/work1.jpg"
 
 どの理由にも対処法はあります。ひとつずつ考えていきましょう。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>辞められない理由は人それぞれ。でも、どの理由にもちゃんと対処法があります。焦らなくて大丈夫。</p>
+</div>
+</div>
+
 
 ## 辞め方の手順
 
@@ -53,6 +61,14 @@ image: "/blog/work1.jpg"
 条件改善が本心であれば検討してもいいですが、多くの場合、引き止めは一時的なもの。結局また同じ不満が出てきます。辞めると決めたなら、ブレないことが大事です。
 
 「ありがたいですが、もう決めたので」で十分です。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>引き止めに揺れる気持ちはわかります。でも「辞める」と決めたなら、ブレないこと。それが一番大事です。</p>
+</div>
+</div>
 
 ### ④ 辞められない雰囲気のお店
 
@@ -110,6 +126,14 @@ image: "/blog/work1.jpg"
 限界を感じる前に辞められるのは、むしろ強さです。「まだ大丈夫」と自分に言い聞かせて続けた結果、心や身体を壊してしまう方がよっぽどダメージが大きい。
 
 僕はマネージャー時代、「もっと早く止めてあげればよかった」と思ったことが何度もあります。だから今は、「辞めたい」という声が聞こえた時点で、全力でサポートしたいと思っています。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「辞めたい」と思った時点で、もう十分がんばってきた証拠です。その気持ちに正直でいてください。</p>
+</div>
+</div>
 
 辞め方がわからない、次の仕事が見つからない、誰に相談したらいいかわからない。どんな段階でも大丈夫なので、連絡してください。
 

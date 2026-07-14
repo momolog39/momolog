@@ -25,6 +25,14 @@ image: "/blog/work2.jpg"
 
 お店側にとっては「この子はうちに合うか」を見る機会、働く側にとっては「このお店で働けるか」を判断する機会。お互いのお試し期間です。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>体入は「お店を選ぶ側」でもある。遠慮せずにしっかり見極めてください。</p>
+</div>
+</div>
+
 
 ## 体験入店の一般的な流れ
 
@@ -76,6 +84,14 @@ image: "/blog/work2.jpg"
 
 **複数のお店を比較できる。** いくつかのお店で体入してみて、一番自分に合うところを選ぶのは賢いやり方です。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>複数のお店で体入して比較するのがベスト。1店舗だけで決めちゃうのはもったいないです。</p>
+</div>
+</div>
+
 
 ## 注意すべきポイント
 
@@ -98,6 +114,14 @@ image: "/blog/work2.jpg"
 お店のスタッフに「今日そのまま本入店しちゃいましょう！」と言われることがあります。雰囲気に押されてその場で決めてしまう人もいますが、冷静に判断してください。
 
 体入の目的は「自分に合うか確認すること」。即決する必要はまったくありません。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「今日決めて！」と急かすお店は要注意。ちゃんとしたお店なら、考える時間をくれます。</p>
+</div>
+</div>
 
 ### 交通費が出るか
 

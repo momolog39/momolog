@@ -31,6 +31,14 @@ image: "/blog/daily2.jpg"
 
 **メンタルケア。** これが一番大事な仕事だったと今でも思っています。後で詳しく書きます。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>スケジュール管理、送迎、営業、SNS、メンタルケア。マネージャーって「何でも屋」なんですよね。</p>
+</div>
+</div>
+
 
 ## 華やかに見えるけど、泥臭い
 
@@ -43,6 +51,14 @@ image: "/blog/daily2.jpg"
 給料も、正直に言えば、仕事量に見合っているとは思えないことが多かった。芸能マネージャーの年収は一般的なサラリーマンより低いことが多いです。
 
 それでも続けていたのは、自分が担当しているタレントが売れていく過程に立ち会えることが、やっぱり面白かったから。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>給料は安い、休みはない、朝は早い。それでもタレントが売れていく瞬間に立ち会えるのは、他の仕事では味わえない面白さでした。</p>
+</div>
+</div>
 
 
 ## メンタルケアの話
@@ -68,6 +84,14 @@ image: "/blog/daily2.jpg"
 全部がうまくいったわけではありません。僕が気づけなかったこともあるし、気づいたけど対応が遅れたこともある。それは今でも後悔しています。
 
 でも、この経験があるから、今の仕事でもメンタルケアを一番大事にしているんだと思います。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>小さな変化に気づくこと。これがマネージャー時代に学んだ一番大切なことで、今の仕事にもそのまま活きています。</p>
+</div>
+</div>
 
 
 ## 芸能界とナイトワークの接点

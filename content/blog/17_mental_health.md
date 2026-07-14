@@ -35,6 +35,14 @@ image: "/blog/health1.jpg"
 
 これらが日常的に積み重なっていくので、ある日突然「もう無理」となることがある。本人も周囲も気づかないうちに限界を超えてしまうのが、メンタルの怖いところです。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>密室、評価、秘密、生活リズムの乱れ。ストレス要因が重なりやすい仕事だからこそ、意識的にケアする必要があります。</p>
+</div>
+</div>
+
 
 ## 危険サインを知っておく
 
@@ -53,6 +61,14 @@ image: "/blog/health1.jpg"
 **「自分には価値がない」と感じる。** お客さんの評価＝自分の価値だと思い始めたら、かなり危険な状態です。
 
 ひとつでも当てはまったら、一度立ち止まって考えてほしい。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>眠れない、食べられない、楽しめない。ひとつでも当てはまったら、それは体からのSOSです。</p>
+</div>
+</div>
 
 
 ## 日常的にできるメンタルケア
@@ -89,6 +105,14 @@ image: "/blog/health1.jpg"
 お金は後から稼げる。でも、壊れたメンタルを戻すには時間がかかる。場合によっては元に戻らないこともある。
 
 「まだ大丈夫」と思っているうちに、上に書いた危険サインが出ていないかチェックしてみてください。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>「稼げてるから大丈夫」は一番危ない思い込み。お金は後から稼げるけど、壊れたメンタルは簡単には戻りません。</p>
+</div>
+</div>
 
 
 ## 辞めるという選択肢
