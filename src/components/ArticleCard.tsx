@@ -16,7 +16,7 @@ export default function ArticleCard({ post }: { post: PostMeta }) {
             <span className="inline-block self-start text-[10px] font-bold text-white bg-white/20 backdrop-blur-sm px-2.5 py-0.5 rounded-full mb-2">
               {post.category}
             </span>
-            <h3 className="font-bold text-white text-sm leading-snug line-clamp-2 drop-shadow-md">
+            <h3 className="font-bold text-white text-base md:text-lg leading-snug line-clamp-2 drop-shadow-md">
               {post.title}
             </h3>
           </div>
