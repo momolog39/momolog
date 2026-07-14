@@ -29,7 +29,7 @@ image: "/blog/work2.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>仕事用のスマホは身バレ対策の基本中の基本。月1,000円台の初期投資で安心が買えると思ってください。</p>
+<p>これだけは絶対やってね。</p>
 </div>
 </div>
 
@@ -89,13 +89,6 @@ image: "/blog/work2.jpg"
 
 最初から詰め込みすぎないこと。初めのうちは週2〜3日くらいから始めて、慣れてきたら増やすのが無理のないやり方です。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>性病検査、身だしなみ、カバーストーリー、シフト計画。働く「前」の準備が、働き始めてからの安心感を大きく左右します。</p>
-</div>
-</div>
 
 
 ## お金の管理について
@@ -114,7 +107,7 @@ image: "/blog/work2.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>日払いだからこそ、お金の管理は最初にルールを決めておくのが鉄則。「稼いだ分だけ使う」が一番ハマりやすい罠です。</p>
+<p>これ、マジで多いんだよね。</p>
 </div>
 </div>
 

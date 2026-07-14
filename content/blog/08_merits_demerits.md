@@ -44,13 +44,6 @@ image: "/blog/work1.jpg"
 
 もちろんスタッフや他のキャストとの関係はありますが、基本的には個人プレーの仕事。そこが気楽だという人は多いです。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>メリットだけ見ると魅力的に見えるけど、ここからが本題です。デメリットも必ず読んでください。</p>
-</div>
-</div>
 
 
 ## デメリット
@@ -68,17 +61,18 @@ image: "/blog/work1.jpg"
 
 慣れる人もいますが、慣れない人もいる。そして、慣れたと思っていても、気づかないうちに心がすり減っていることがある。
 
-嫌なお客さんに当たった時のストレス、自分の身体を「商品」として扱われる感覚に対する違和感、誰にも相談できない孤独感。これらが積み重なると、メンタルを壊す原因になります。
-
-僕が相談を受けてきた中でも、「稼げてるけど精神的にしんどい」という声は本当に多かった。収入と引き換えに何を支払っているのかは、冷静に考える必要があります。
-
 <div class="fukidashi">
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>「稼げてるけどしんどい」って声、本当に多かった。お金の問題だけじゃないんです。</p>
+<p>ここ、本当に怖いところ。</p>
 </div>
 </div>
+
+嫌なお客さんに当たった時のストレス、自分の身体を「商品」として扱われる感覚に対する違和感、誰にも相談できない孤独感。これらが積み重なると、メンタルを壊す原因になります。
+
+僕が相談を受けてきた中でも、「稼げてるけど精神的にしんどい」という声は本当に多かった。収入と引き換えに何を支払っているのかは、冷静に考える必要があります。
+
 
 ### 身バレのリスクがある
 
@@ -95,6 +89,14 @@ image: "/blog/work1.jpg"
 これは風俗業界で非常によく聞く話です。
 
 一度この収入水準に慣れてしまうと、一般的なアルバイトの時給では物足りなくなる。生活水準を上げてしまうと下げられない。結果として、辞めたいのに辞められないという状態に陥る。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>この沼、ハマる人多いよ。</p>
+</div>
+</div>
 
 「期間を決めて働く」「目標金額を決めておく」といった自分なりのルールを事前に作っておくことが大切です。
 
@@ -117,13 +119,6 @@ image: "/blog/work1.jpg"
 
 求人に書いてある数字をそのまま信じて計画を立てるのは危険です。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>求人の数字は「最大値」。平均じゃないし、自分がそうなれる保証もない。冷静にいきましょう。</p>
-</div>
-</div>
 
 
 ## 風俗以外の選択肢を知っておくこと

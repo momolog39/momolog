@@ -54,7 +54,7 @@ image: "/blog/health2.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>大前提として「自分の安全が最優先」。お客さんの機嫌より、自分の身を守ることの方がずっと大事です。</p>
+<p>ここ、マジで大事。</p>
 </div>
 </div>
 
@@ -106,13 +106,6 @@ NGなお客さんに遭遇したら、たとえ自分で対処できた場合で
 
 「大丈夫、慣れてるから」と無理をしないでください。信頼できる人に話を聞いてもらう、その日は早めに帰る、翌日は休むなど、自分を守る行動をとってください。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>トラブルは「報告・記録・セルフケア」の3点セット。自分で解決できても、必ずお店に共有してください。</p>
-</div>
-</div>
 
 
 ## お店の対応が悪い場合
@@ -131,7 +124,7 @@ NGなお客さんに遭遇したら、たとえ自分で対処できた場合で
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>「我慢して」と言うお店は、あなたを守る気がないお店です。そういう環境からは離れてOK。</p>
+<p>迷わず離れていいからね。</p>
 </div>
 </div>
 

@@ -45,9 +45,10 @@ image: "/blog/theme1.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>BGMの切り替えに滝の水音を使うって、もはや変態的なこだわり。次回パークに行ったらぜひ意識して歩いてみてください。</p>
+<p>これ気づいた時、鳥肌立ったもん。</p>
 </div>
 </div>
+
 
 ### ワールドバザールの遠近法
 
@@ -63,13 +64,6 @@ image: "/blog/theme1.jpg"
 
 さらに、城の色は下が濃くて上に行くほど淡い色になっている。これは空との境界をぼかして、城がもっと高い場所まで伸びているように見せるため。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>強化遠近法のおかげで「すごい世界に来た」と感じるわけです。知ると見方が変わりますよ。</p>
-</div>
-</div>
 
 ### トゥーンタウンの「触れる」設計
 
@@ -78,6 +72,14 @@ image: "/blog/theme1.jpg"
 大人になってから行くと、これらの仕掛けの作り込みに感動します。子どもの頃は「楽しい」しか感じなかったけど、今は「ここまでやるか」という設計者へのリスペクトが湧く。
 
 ちなみにトゥーンタウンの建物は、どれも直線がなく、少し曲がったり歪んだりしています。これは「アニメの世界には直線が存在しない」という設定。建物だけでなく、柵やベンチまで微妙に曲がっている。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>ここまでやるか、って思うでしょ。</p>
+</div>
+</div>
 
 
 ## もう少しだけ豆知識
@@ -117,13 +119,6 @@ image: "/blog/theme1.jpg"
 
 ランドは「ワクワク」、シーは「リラックス」。両方あるからディズニーリゾートは完璧なんだと思います。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>ランドとシーは別物。気分で使い分けるのが年パス勢のスタイルです。最終的には両方行ってほしい。</p>
-</div>
-</div>
 
 
 ## パーク選びに迷ったら

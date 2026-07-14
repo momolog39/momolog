@@ -27,13 +27,6 @@ image: "/blog/industry2.jpg"
 
 つまり、風俗と水商売は別物だけど、どちらもナイトワークの一部ということです。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>風俗＝性的サービス、水商売＝お酒の接客。この2つは別物で、ナイトワークはその両方を含む総称です。</p>
-</div>
-</div>
 
 
 ## 水商売に分類されるもの
@@ -86,7 +79,7 @@ image: "/blog/industry2.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>メンエスは風俗でも水商売でもない。法律上はリラクゼーションサロンと同じ扱いなので、将来のキャリアにも影響しません。</p>
+<p>意外と知らない人、多いんだよね。</p>
 </div>
 </div>
 
@@ -135,7 +128,7 @@ image: "/blog/industry2.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>収入が高い＝リスクも高い。これはどの業種にも共通するトレードオフ。自分の優先順位に合わせて選ぶことが大事です。</p>
+<p>ここは冷静に考えてね。</p>
 </div>
 </div>
 

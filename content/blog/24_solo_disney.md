@@ -33,9 +33,10 @@ image: "/blog/theme3.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>ひとりディズニー最大のメリットは「全部自分で決められる」こと。この自由は一度味わうとクセになります。</p>
+<p>この自由、一回知ったら戻れないよ。</p>
 </div>
 </div>
+
 
 ### 写真に集中できる
 
@@ -76,13 +77,6 @@ image: "/blog/theme3.jpg"
 
 ベンチに座ってポップコーンを食べながら、ハーバーの景色を眺める。それだけで十分に楽しい。何もしない時間に罪悪感を持たなくていい。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>「何もしない」も立派なパークの楽しみ方。全部回らなきゃという呪縛から解放されると、一気に楽になります。</p>
-</div>
-</div>
 
 ### ショーやパレードを見る
 
@@ -99,6 +93,14 @@ image: "/blog/theme3.jpg"
 
 実際、1人で来ているゲストは見渡せば結構います。パークのキャストさんも1人のゲストに慣れているので、まったく不自然な対応はされません。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>マジで誰も気にしてないからね。</p>
+</div>
+</div>
+
 **「食事が寂しくない？」**
 
 食べ歩きメニューを活用すれば、テーブルに座る必要すらない。ターキーレッグを片手にパークを歩くのは、むしろ1人の特権。
@@ -107,13 +109,6 @@ image: "/blog/theme3.jpg"
 
 全然OK。1人の方がキャラクターとの時間をじっくり楽しめます。キャラクターも1人のゲストには特に丁寧にリアクションしてくれることが多い気がします。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>恥ずかしいのは最初だけ。パークに入れば誰もあなたのことを気にしていません。思い切って行ってみて。</p>
-</div>
-</div>
 
 
 ## まとめ

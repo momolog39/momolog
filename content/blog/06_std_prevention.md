@@ -64,7 +64,7 @@ image: "/blog/health2.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>梅毒は近年マジで急増しています。「症状が消えた＝治った」ではないので、少しでも心当たりがあればすぐ検査を。</p>
+<p>マジで怖いのはここ。</p>
 </div>
 </div>
 
@@ -129,7 +129,7 @@ HIVは性行為による体液の接触で感染します。
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>「自分は大丈夫」が一番危ない。症状がなくても月1回の検査は絶対に続けてください。</p>
+<p>本当にこれに尽きる。</p>
 </div>
 </div>
 
@@ -146,13 +146,6 @@ HIVは性行為による体液の接触で感染します。
 
 **⑤ 異変を感じたらすぐ受診する。** おりものの変化、性器周辺のできもの、のどの違和感、原因不明の発疹。気になることがあったら、迷わず医療機関を受診してください。早期発見・早期治療が何より大事です。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>コンドーム・定期検査・ワクチン・体調管理・早期受診。この5つを習慣にするだけで、リスクは大幅に下がります。</p>
-</div>
-</div>
 
 
 ## 最後に

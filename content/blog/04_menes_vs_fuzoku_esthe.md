@@ -68,7 +68,7 @@ image: "/blog/industry1.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>「メンエス」と「風俗エステ」は名前が似てるだけで完全に別物。ここを混同したまま応募すると大変なことになります。</p>
+<p>ここが決定的な違いだよ。</p>
 </div>
 </div>
 
@@ -87,7 +87,7 @@ image: "/blog/industry1.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>身体の負担が少ない・長く続けやすい・風俗経歴にならない。この3つが揃ってるのはメンエスの大きな強みです。</p>
+<p>意外でしょ？これ大きいよ。</p>
 </div>
 </div>
 
@@ -126,13 +126,6 @@ image: "/blog/industry1.jpg"
 
 もちろん万人にとっての正解ではないし、風俗の方が合っている人もいます。でも「選択肢としてメンエスという働き方があること」を知っておいて損はないと思います。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>爆発的には稼げないけど、壊れずに続けられる。僕がメンエスを推す一番の理由はそこです。</p>
-</div>
-</div>
 
 芸能系のお仕事についても紹介できるので、興味がある方は気軽に連絡ください。
 

@@ -33,13 +33,6 @@ image: "/blog/theme1.jpg"
 
 **桃川の行き方：** インディ・ジョーンズに乗った後、そのままの流れで行くのがスムーズ。レイジングスピリッツの近くです。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>ユカタンは僕のシーでの「ホーム」です。奥まった場所にあるから、存在を知らない人が多いのが逆にありがたい。</p>
-</div>
-</div>
 
 
 ## ② カスバ・フードコート
@@ -48,19 +41,20 @@ image: "/blog/theme1.jpg"
 
 「フードコート」という名前のせいか、ちょっと軽く見られがちなんですが、ここのカレーは本気で美味しいです。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>名前で損してるよね。</p>
+</div>
+</div>
+
 複数種類のカレーがあって、ナンも大きい。パーク内のレストランにしてはしっかりとした味付けで、量も十分。コスパで言えばシーの中でもトップクラスだと思います。
 
 店内は天井が高くて広々としていて、アラビアンな装飾がきれい。席数も多いので、混雑日でも回転が早い。「とりあえず座りたい」「ちゃんと食べたい」「でも並びたくない」を全部満たしてくれます。
 
 **桃川のおすすめ：** ここに来たらチキンカレーかビーフカレーを頼んでください。間違いないです。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>「フードコート」という名前にだまされないで。ここのカレーはパーク内でもトップクラスのコスパです。</p>
-</div>
-</div>
 
 
 ## ③ ケープコッド・クックオフ
@@ -72,6 +66,14 @@ image: "/blog/theme1.jpg"
 ハンバーガーやチキン系のメニューが中心で、パークフードとしてはかなり満足感がある。テラス席はケープコッドの港町の雰囲気を眺めながら食べられて、ここだけ時間の流れが違う気がします。
 
 ショー鑑賞エリアは予約制（プライオリティ・シーティング）ですが、ダイニングエリアは予約なしで利用可能。意外とこれを知らない人が多くて、「ケープコッド＝予約必要＝面倒」と思ってスルーしている人は損してます。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>これ知らない人、ほんと多い。</p>
+</div>
+</div>
 
 **桃川の過ごし方：** 夕方にここでハンバーガーを食べながらぼーっとするのが好きでした。年パス時代の定番コース。
 
@@ -86,13 +88,6 @@ image: "/blog/theme1.jpg"
 
 **食べ歩きメニューを上手く使う。** 「座ってがっつり食べる」を1日3回やる必要はありません。朝はチュロスやポップコーン、昼にしっかりレストランで食べて、夜はまた軽め……みたいな配分の方が、アトラクションにも時間を使えます。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>ピーク時間をずらす＋モバイルオーダー、この2つだけで待ち時間が激減します。年パス勢の知恵、ぜひ使ってみてください。</p>
-</div>
-</div>
 
 
 ## たまにはこういう記事も

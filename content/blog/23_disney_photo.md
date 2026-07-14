@@ -33,9 +33,10 @@ image: "/blog/theme2.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>写真のクオリティを一番左右するのは、カメラの性能じゃなくて「光」です。朝と夕方を狙うだけで全然違う。</p>
+<p>これだけで全然違うよ。</p>
 </div>
 </div>
+
 
 ### ② 人が写り込まない角度を探す
 
@@ -74,13 +75,6 @@ image: "/blog/theme2.jpg"
 
 **背景にパークの景色を入れる。** 食べ物だけだと「どこで食べたか」がわからない。背景にお城やハーバーが少し入るだけで、ディズニーで食べた特別感が出ます。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>フードは「斜め45度＋自然光＋背景にパーク」。この3つだけ意識すれば、映える写真になります。</p>
-</div>
-</div>
 
 ### 夜景
 
@@ -91,6 +85,14 @@ image: "/blog/theme2.jpg"
 **壁や手すりで固定する。** 手ブレが一番の敵。壁にスマホを押し当てたり、手すりの上に乗せたりして固定すると、ブレが減ります。
 
 **反射を使う。** 雨の日や水辺では、地面や水面に光が反射して幻想的な写真が撮れます。雨の日のパークは人が少ないし、写真的にはむしろチャンス。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>雨の日、実はチャンスなんだよね。</p>
+</div>
+</div>
 
 ### ひとりディズニーの写真
 
@@ -111,13 +113,6 @@ image: "/blog/theme2.jpg"
 
 **アクアスフィア（入口の地球儀）の裏側。** 正面からは誰でも撮りますが、裏側に回ると人が少なくて、別の角度で地球儀が撮れます。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>定番スポットも良いけど、人が少ない穴場を見つけると撮影がもっと楽しくなります。自分だけの構図を探してみて。</p>
-</div>
-</div>
 
 
 ## 最後に

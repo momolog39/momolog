@@ -25,13 +25,6 @@ image: "/blog/health1.jpg"
 
 風俗で働くということは、不特定多数の相手と身体的な接触をするということ。自分の身体を守るための最も基本的な手段がコンドームです。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>コンドームは「お客さんのため」じゃなく「自分の身体を守るため」のもの。この意識が大前提です。</p>
-</div>
-</div>
 
 
 ## 正しい装着手順
@@ -67,7 +60,7 @@ image: "/blog/health1.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>二重装着・油性ローション・途中装着、この3つは「よかれと思って」やりがちなNG行為。覚えておいてください。</p>
+<p>知らない人、ほんと多い。</p>
 </div>
 </div>
 
@@ -105,7 +98,7 @@ image: "/blog/health1.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>コンドームは万能じゃない。だから「正しく使う＋定期検査」のセットが必須なんです。</p>
+<p>ここ、絶対覚えておいて。</p>
 </div>
 </div>
 

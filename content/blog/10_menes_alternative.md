@@ -25,17 +25,18 @@ image: "/blog/esthe2.jpg"
 
 風営法の届出は不要。サービス内容に性的な行為は含まれない。セラピストは脱がないし、お客さんから触られることもNG。
 
-提供するのは、アロマオイルを使ったリラクゼーションマッサージです。
-
-「じゃあなんで高収入なの？」と思うかもしれません。それは、女性セラピストによるマンツーマンの施術に対する需要があるから。癒しやリラクゼーションに対して、お客さんが対価を払っている。それだけのことです。
-
 <div class="fukidashi">
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>ここが一番大事なポイント。メンエスは風俗じゃない。性的サービスは一切ないです。</p>
+<p>ここ、はっきり言い切れる。</p>
 </div>
 </div>
+
+提供するのは、アロマオイルを使ったリラクゼーションマッサージです。
+
+「じゃあなんで高収入なの？」と思うかもしれません。それは、女性セラピストによるマンツーマンの施術に対する需要があるから。癒しやリラクゼーションに対して、お客さんが対価を払っている。それだけのことです。
+
 
 
 ## 風俗とメンエスの違い ― 働く側の視点
@@ -55,13 +56,6 @@ image: "/blog/esthe2.jpg"
 
 比較表で見ると、メンエスはリスクの多くが低い代わりに、収入の上限では風俗に劣ります。これはトレードオフです。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>収入は風俗より低いけど、リスクも圧倒的に低い。どっちを取るかは自分次第です。</p>
-</div>
-</div>
 
 
 ## こんな人にメンエスは合っている
@@ -97,13 +91,6 @@ image: "/blog/esthe2.jpg"
 
 **すぐには稼げない。** メンエスは技術と接客力で指名を獲得する仕事なので、入店直後から高収入は期待しにくい。最初の1〜2ヶ月は我慢の時期になることが多いです。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>メンエスにもリスクはある。特に「グレーなお店」には要注意。お店選びで全部変わります。</p>
-</div>
-</div>
 
 
 ## 芸能系の仕事という選択肢も
@@ -120,6 +107,14 @@ image: "/blog/esthe2.jpg"
 「風俗はちょっと……」と思ったこと自体、何も悪いことではありません。
 
 その感覚を大事にしたまま、自分に合った働き方を探してください。メンエスはその選択肢のひとつです。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>その感覚、正解だよ。</p>
+</div>
+</div>
 
 「興味はあるけど、まだ決められない」くらいの段階でも構いません。話を聞くだけでも歓迎です。
 

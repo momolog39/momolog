@@ -48,13 +48,6 @@ image: "/blog/esthe1.jpg"
 
 出張型は移動が発生する分、時間の拘束が読みにくい。マンション型は待機場所があるので、複数の予約をこなしやすい。それぞれ一長一短です。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>出張型かマンション型か、自分の生活スタイルに合う方を選ぶのが大事です。</p>
-</div>
-</div>
 
 
 ## リアルな収入の話
@@ -77,7 +70,7 @@ image: "/blog/esthe1.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>単価だけで比べると低く見えるけど、「長く安定して稼げる」ことの価値は大きい。トータルで考えてほしい。</p>
+<p>意外でしょ？</p>
 </div>
 </div>
 
@@ -95,6 +88,14 @@ image: "/blog/esthe1.jpg"
 メンエスのお客さんは、マッサージの技術だけでなく「この人と過ごす時間が心地よい」という体験にお金を払っています。
 
 会話のペース、声のトーン、気遣い。こうした部分が指名につながります。お客さんの名前や前回の会話を覚えておくだけでも、リピート率は上がります。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>これだけで全然変わるよ。</p>
+</div>
+</div>
 
 ### SNSを活用する
 
@@ -143,13 +144,6 @@ image: "/blog/esthe1.jpg"
 
 でも、身体を壊さず、心を壊さず、手に職をつけながら安定して収入を得られる。そういう仕事です。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>身体も心も壊さずに、手に職をつけながら稼げる。それがメンエスの一番の強みです。</p>
-</div>
-</div>
 
 興味がある方、「自分に合うかどうか聞いてみたい」という方は、気軽に連絡ください。
 

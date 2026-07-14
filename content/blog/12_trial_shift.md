@@ -29,7 +29,7 @@ image: "/blog/work2.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>体入は「お店を選ぶ側」でもある。遠慮せずにしっかり見極めてください。</p>
+<p>選ぶ側でもあるからね。</p>
 </div>
 </div>
 
@@ -84,13 +84,6 @@ image: "/blog/work2.jpg"
 
 **複数のお店を比較できる。** いくつかのお店で体入してみて、一番自分に合うところを選ぶのは賢いやり方です。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>複数のお店で体入して比較するのがベスト。1店舗だけで決めちゃうのはもったいないです。</p>
-</div>
-</div>
 
 
 ## 注意すべきポイント
@@ -119,9 +112,10 @@ image: "/blog/work2.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>「今日決めて！」と急かすお店は要注意。ちゃんとしたお店なら、考える時間をくれます。</p>
+<p>焦らされても、流されないで。</p>
 </div>
 </div>
+
 
 ### 交通費が出るか
 

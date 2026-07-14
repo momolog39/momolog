@@ -14,13 +14,6 @@ image: "/blog/daily1.jpg"
 
 まずは「お前誰だよ」という話だと思うので、自己紹介させてください。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>聞きにくいことこそ、ちゃんと伝えたい。そんな思いでこのブログを始めました！</p>
-</div>
-</div>
 
 
 ## 芸能マネージャー時代のこと
@@ -36,6 +29,14 @@ image: "/blog/daily1.jpg"
 芸能の世界って、見た目の評価、オーディションの結果、SNSの反応……数字と他人の目にさらされ続ける仕事なんですよね。だからこそ、本人が気づかないうちに限界を超えてしまうことがある。それを手前で拾うのがマネージャーの役割だと思ってやっていました。
 
 「この子にはどんな仕事が合うのか」「どうすれば長く続けられるか」「今、無理をしていないか」。そういうことを考える時間が、一番やりがいを感じていた部分です。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>ここが原点なんだよね。</p>
+</div>
+</div>
 
 
 ## なぜ風俗・ナイトワーク業界に関わるようになったか
@@ -54,13 +55,6 @@ image: "/blog/daily1.jpg"
 
 だったら、自分が発信した方がいいなと思いました。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>「実際どうなの？」に答える情報が少なすぎる。それが発信を始めた一番の理由です。</p>
-</div>
-</div>
 
 
 ## 今やっていること
@@ -74,6 +68,14 @@ image: "/blog/daily1.jpg"
 それ以外にも、風俗業界の構造や各業種の違い、お店の選び方、働く前に知っておいた方がいいことなど、聞きにくいことほど、ちゃんとお伝えします。
 
 マネージャー時代からずっとやってきたことですが、メンタル面のケアは特に大事にしています。芸能でもナイトワークでも、人に見られる仕事・人と密に接する仕事は精神的な負荷がかかりやすい。だからこそ「稼げればOK」ではなくて、無理なく続けられるかどうかを一緒に考えるようにしています。
+
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>ここは譲れないとこ。</p>
+</div>
+</div>
 
 
 ## このブログで書いていくこと
@@ -97,13 +99,6 @@ image: "/blog/daily1.jpg"
 
 「絶対やった方がいい」とも「絶対やめた方がいい」とも言いません。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>メリットもデメリットも正直に。判断材料を届けるのが僕の役割です。</p>
-</div>
-</div>
 
 メリットもデメリットも正直に書きます。その上で、自分で判断できるだけの材料を提供するのが、このブログの役割だと思っています。
 

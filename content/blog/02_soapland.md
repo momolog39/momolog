@@ -28,13 +28,6 @@ image: "/blog/industry1.jpg"
 
 この仕組みを知っておくことは、働く側にとっても大事です。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>法律上は「個人事業主」として働く形。この建前を知っておくだけで、お店との関係性の理解がまったく変わります。</p>
-</div>
-</div>
 
 
 ## どこにあるの？
@@ -55,6 +48,14 @@ image: "/blog/industry1.jpg"
 
 しかも、現在は新規出店がほぼ認められていないので、既存の店舗が営業を続けている形です。だから店舗数が急に増えたり減ったりしない、比較的安定した業界構造になっています。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>意外と知らない人、多いんだよね。</p>
+</div>
+</div>
+
 
 ## お店のランクについて
 
@@ -70,13 +71,6 @@ image: "/blog/industry1.jpg"
 
 ランクによって給与水準もお客さんの層もまったく違うので、「ソープで働く」と一括りにはできません。自分がどのランクに合っているかを客観的に判断することが、お店選びの第一歩です。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>「稼げそうだから高級店」ではなく、自分に合ったランクを選ぶのが長く続けるコツです。</p>
-</div>
-</div>
 
 
 ## サービスの内容
@@ -102,6 +96,14 @@ image: "/blog/industry1.jpg"
 
 **シフトの自由度が高い。** 日払い対応のお店も多く、自分のペースで働けるケースが多いです。
 
+<div class="fukidashi">
+<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
+<div class="fukidashi-bubble">
+<p class="fukidashi-name">桃川</p>
+<p>ここからが本題だよ。</p>
+</div>
+</div>
+
 
 ## 働く側から見たデメリット
 
@@ -122,13 +124,6 @@ image: "/blog/industry1.jpg"
 
 たとえばメンズエステは、性的サービスがないリラクゼーションの仕事です。ソープほどの単価にはなりませんが、身体への負担が少なく、未経験からでも始められます。
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>「高収入＝正解」とは限らない。無理なく続けられる働き方が、結果的に一番稼げることも多いです。</p>
-</div>
-</div>
 
 芸能系の仕事に興味がある人には、提携プロダクションを通じた紹介もできます。
 

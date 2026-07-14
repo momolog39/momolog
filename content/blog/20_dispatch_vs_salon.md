@@ -42,15 +42,6 @@ image: "/blog/esthe1.jpg"
 | 対応エリア | 広い | 立地に依存 |
 
 
-<div class="fukidashi">
-<img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
-<div class="fukidashi-bubble">
-<p class="fukidashi-name">桃川</p>
-<p>一番の違いは「セラピストが動くか、お客さんが動くか」。ここから全部の差が生まれます。</p>
-</div>
-</div>
-
-
 ## 出張型のメリット
 
 **自宅待機ができる。** 予約が入るまで自宅で過ごせるのは大きなメリットです。待機時間を家事や勉強、副業にあてられる。「待っている時間がもったいない」と感じる人には向いています。
@@ -70,12 +61,11 @@ image: "/blog/esthe1.jpg"
 
 **安全面のリスクが店舗型より高い。** お客さんの自宅に行く場合、密室に1人になる状況が発生します。ちゃんとしたお店であれば到着連絡・退室連絡のルールがありますが、構造的にリスクは店舗型より高い。
 
-
 <div class="fukidashi">
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>出張型は自由度が高い反面、移動の負担と安全面のリスクは正直あります。特に1人でお客さんの自宅に行くケースは要注意。</p>
+<p>ここは軽く見ないでね。</p>
 </div>
 </div>
 
@@ -120,9 +110,10 @@ image: "/blog/esthe1.jpg"
 <img src="/momoicon_002_B.jpg" alt="桃川" class="fukidashi-avatar">
 <div class="fukidashi-bubble">
 <p class="fukidashi-name">桃川</p>
-<p>正解はありません。自分の生活スタイルに合う方を選べばOK。迷ったら相談してください。</p>
+<p>正解はないから、自分で決めていいよ。</p>
 </div>
 </div>
+
 
 迷っている方は相談してください。どちらが合いそうか、一緒に考えます。
 
