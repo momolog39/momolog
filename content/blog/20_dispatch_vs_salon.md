@@ -3,7 +3,7 @@ title: "出張型メンエスと店舗型メンエス、働くならどっち？
 slug: "20_dispatch_vs_salon"
 category: "メンエス"
 categorySlug: "mens-esthe"
-description: "こんにちは、桃川です。"
+description: "出張型メンエスと店舗型メンエスの違いを比較。収入・安全性・働きやすさの観点から解説します。"
 articleNumber: 20
 image: "/blog/article_20.jpg"
 ---

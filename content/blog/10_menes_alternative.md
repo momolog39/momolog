@@ -3,7 +3,7 @@ title: "「風俗はちょっと…」という人にメンエスという選択
 slug: "10_menes_alternative"
 category: "メンエス"
 categorySlug: "mens-esthe"
-description: "こんにちは、桃川です。"
+description: "風俗に抵抗がある人向けに、メンズエステという選択肢を紹介。脱がない・触られない高収入の仕事。"
 articleNumber: 10
 image: "/blog/article_10.jpg"
 ---

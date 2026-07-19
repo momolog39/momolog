@@ -3,7 +3,7 @@ title: "「風俗」と「水商売」の違い、ちゃんと説明できます
 slug: "19_fuzoku_vs_mizushoubai"
 category: "業界基礎知識"
 categorySlug: "industry-basics"
-description: "こんにちは、桃川です。"
+description: "風俗と水商売の違いを法律・業種・働き方の観点からわかりやすく解説。混同しやすいポイントを整理。"
 articleNumber: 19
 image: "/blog/article_19.jpg"
 ---

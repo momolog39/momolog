@@ -3,7 +3,7 @@ title: "「ソープランドって何？」今さら聞けない基本をわか
 slug: "02_soapland"
 category: "業界基礎知識"
 categorySlug: "industry-basics"
-description: "こんにちは、桃川です。"
+description: "ソープランドの仕組み・料金体系・働き方を初心者にもわかりやすく解説。風俗で働くことを考えている人に向けた基礎知識。"
 articleNumber: 2
 image: "/blog/article_02.jpg"
 ---

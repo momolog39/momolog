@@ -5,7 +5,7 @@ import ProfileCard from "@/components/ProfileCard";
 
 export default function Home() {
   const posts = getAllPosts();
-  const latestPosts = posts.slice(0, 6);
+  const latestPosts = [...posts].reverse().slice(0, 6);
 
   return (
     <>

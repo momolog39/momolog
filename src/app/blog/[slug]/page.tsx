@@ -26,7 +26,16 @@ export async function generateMetadata({
         title: post.title,
         description: post.description,
         type: "article",
-        images: [{ url: "/momo-header.jpg" }],
+        images: [{ url: post.image, width: 1200, height: 600 }],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: post.title,
+        description: post.description,
+        images: [post.image],
+      },
+      alternates: {
+        canonical: `/blog/${slug}`,
       },
     };
   } catch {
@@ -52,18 +61,31 @@ export default async function BlogPost({
     .filter((p) => p.slug !== post.slug)
     .slice(0, 3);
 
+  const baseUrl =
+    process.env.NEXT_PUBLIC_BASE_URL || "https://momokawa-blog.vercel.app";
+  const articleUrl = `${baseUrl}/blog/${post.slug}`;
+  const imageUrl = `${baseUrl}${post.image}`;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: post.title,
     description: post.description,
+    image: imageUrl,
+    url: articleUrl,
+    mainEntityOfPage: { "@type": "WebPage", "@id": articleUrl },
     author: {
       "@type": "Person",
       name: "桃川",
+      url: "https://www.instagram.com/barbie0mint/",
     },
     publisher: {
       "@type": "Organization",
       name: "モモログ",
+      logo: {
+        "@type": "ImageObject",
+        url: `${baseUrl}/momo-header.jpg`,
+      },
     },
   };
 

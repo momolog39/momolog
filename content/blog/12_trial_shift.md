@@ -3,7 +3,7 @@ title: "「体入」ってどういう制度？体験入店の流れと注意点
 slug: "12_trial_shift"
 category: "働く前に知るべきこと"
 categorySlug: "before-working"
-description: "こんにちは、桃川です。"
+description: "体験入店（体入）の仕組みと流れを解説。チェックすべきポイントや注意点をまとめました。"
 articleNumber: 12
 image: "/blog/article_12.jpg"
 ---

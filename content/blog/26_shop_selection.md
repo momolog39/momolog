@@ -3,7 +3,7 @@ title: "お店選びで失敗しないための5つのチェックポイント"
 slug: "26_shop_selection"
 category: "働く前に知るべきこと"
 categorySlug: "before-working"
-description: "こんにちは、桃川です。"
+description: "風俗・メンエスのお店選びで失敗しないための5つのチェックポイント。報酬・スタッフ対応・安全管理の確認方法。"
 articleNumber: 26
 image: "/blog/article_26.jpg"
 ---

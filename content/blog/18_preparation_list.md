@@ -3,7 +3,7 @@ title: "風俗で働くのに必要なもの一覧【初出勤までに準備す
 slug: "18_preparation_list"
 category: "働く前に知るべきこと"
 categorySlug: "before-working"
-description: "こんにちは、桃川です。"
+description: "風俗の初出勤までに準備するものリスト。持ち物・衣装・身だしなみ・必要書類をまとめました。"
 articleNumber: 18
 image: "/blog/article_18.jpg"
 ---

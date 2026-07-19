@@ -3,7 +3,7 @@ title: "メンズエステで働くって実際どう？仕事内容とリアル
 slug: "09_menes_real"
 category: "メンエス"
 categorySlug: "mens-esthe"
-description: "こんにちは、桃川です。"
+description: "メンズエステの仕事内容と実際の収入を紹介。未経験からの始め方、1日の流れ、リアルな日給まで解説。"
 articleNumber: 9
 image: "/blog/article_09.jpg"
 ---

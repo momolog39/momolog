@@ -3,7 +3,7 @@ title: "はじめまして、桃川です。元芸能マネージャーがお仕
 slug: "01_self_introduction"
 category: "桃川の日常"
 categorySlug: "daily-life"
-description: "はじめまして。桃川（ももかわ）です。"
+description: "元芸能マネージャー桃川の自己紹介。なぜ風俗・メンエス業界のお仕事紹介を始めたのか、きっかけと想いを語ります。"
 articleNumber: 1
 image: "/blog/article_01.jpg"
 ---

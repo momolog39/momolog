@@ -3,7 +3,7 @@ title: "パークで使える！ディズニー写真の撮り方テクニック
 slug: "23_disney_photo"
 category: "桃川の日常"
 categorySlug: "daily-life"
-description: "こんにちは、桃川です。"
+description: "ディズニーパークでスマホを使った写真の撮り方テクニック。映えるスポットと撮影のコツを紹介。"
 articleNumber: 23
 image: "/blog/article_23.jpg"
 ---

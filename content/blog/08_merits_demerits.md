@@ -3,7 +3,7 @@ title: "風俗で働くメリット・デメリット【良いことも悪いこ
 slug: "08_merits_demerits"
 category: "働く前に知るべきこと"
 categorySlug: "before-working"
-description: "こんにちは、桃川です。"
+description: "風俗で働くメリットとデメリットを正直に解説。高収入の裏側にあるリスクや精神的負担も含めたリアルな情報。"
 articleNumber: 8
 image: "/blog/article_08.jpg"
 ---

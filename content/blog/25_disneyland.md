@@ -3,7 +3,7 @@ title: "シーだけじゃない！ディズニーランドの好きなところ
 slug: "25_disneyland"
 category: "桃川の日常"
 categorySlug: "daily-life"
-description: "こんにちは、桃川です。"
+description: "ディズニーランドの魅力をシー派の桃川が語る。アトラクション・フード・雰囲気のおすすめポイント。"
 articleNumber: 25
 image: "/blog/article_25.jpg"
 ---

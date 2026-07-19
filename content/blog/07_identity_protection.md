@@ -3,7 +3,7 @@ title: "身バレしたくない人のための完全対策ガイド【SNS・住
 slug: "07_identity_protection"
 category: "働く前に知るべきこと"
 categorySlug: "before-working"
-description: "こんにちは、桃川です。"
+description: "風俗で働く際の身バレ対策を徹底解説。SNS・住所・名前・写真の管理方法と具体的な対策まとめ。"
 articleNumber: 7
 image: "/blog/article_07.jpg"
 ---

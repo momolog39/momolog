@@ -3,7 +3,7 @@ title: "デリヘルとは？仕組み・働き方・メリットデメリット
 slug: "03_delivery_health"
 category: "業界基礎知識"
 categorySlug: "industry-basics"
-description: "こんにちは、桃川です。"
+description: "デリヘルの仕組み・働き方・報酬体系をわかりやすく解説。メリット・デメリットも含めた業界の基礎知識。"
 articleNumber: 3
 image: "/blog/article_03.jpg"
 ---

@@ -16,9 +16,18 @@ export async function generateMetadata({
   const { slug } = await params;
   const category = CATEGORIES.find((c) => c.slug === slug);
   if (!category) return { title: "カテゴリが見つかりません" };
+  const desc = `モモログの「${category.name}」カテゴリの記事一覧。メンエス・風俗業界の${category.name}に関する情報をまとめています。`;
   return {
     title: `${category.name} の記事一覧`,
-    description: `桃川ブログの「${category.name}」カテゴリの記事一覧です。`,
+    description: desc,
+    openGraph: {
+      title: `${category.name} の記事一覧`,
+      description: desc,
+      type: "website",
+    },
+    alternates: {
+      canonical: `/category/${slug}`,
+    },
   };
 }
 

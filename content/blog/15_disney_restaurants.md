@@ -3,7 +3,7 @@ title: "桃川が選ぶ！ディズニーシーの穴場レストラン3選"
 slug: "15_disney_restaurants"
 category: "桃川の日常"
 categorySlug: "daily-life"
-description: "こんにちは、桃川です。"
+description: "ディズニーシーの穴場レストランを3店厳選。混雑を避けてゆっくり食事できるおすすめスポット。"
 articleNumber: 15
 image: "/blog/article_15.jpg"
 ---

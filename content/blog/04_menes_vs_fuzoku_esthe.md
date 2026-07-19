@@ -3,7 +3,7 @@ title: "メンズエステと風俗エステ、何が違う？【働く側の視
 slug: "04_menes_vs_fuzoku_esthe"
 category: "業界基礎知識"
 categorySlug: "industry-basics"
-description: "こんにちは、桃川です。"
+description: "メンズエステと風俗エステの違いを働く側の視点で徹底比較。サービス内容・報酬・リスクの違いを解説。"
 articleNumber: 4
 image: "/blog/article_04.jpg"
 ---

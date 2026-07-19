@@ -3,7 +3,7 @@ title: "性病ってどうやって防ぐ？風俗で気をつけるべき感染
 slug: "06_std_prevention"
 category: "健康・安全"
 categorySlug: "health-safety"
-description: "こんにちは、桃川です。"
+description: "風俗で気をつけるべき性感染症の種類と予防法を解説。クラミジア・淋病・梅毒・HIVの感染経路と対策。"
 articleNumber: 6
 image: "/blog/article_06.jpg"
 ---

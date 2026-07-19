@@ -6,8 +6,11 @@ const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://momokawa-blog.verc
 export default function sitemap(): MetadataRoute.Sitemap {
   const slugs = getAllSlugs();
 
+  const now = new Date().toISOString();
+
   const blogUrls: MetadataRoute.Sitemap = slugs.map((slug) => ({
     url: `${BASE_URL}/blog/${slug}`,
+    lastModified: now,
     changeFrequency: "monthly",
     priority: 0.7,
   }));
@@ -19,8 +22,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   return [
-    { url: BASE_URL, changeFrequency: "weekly", priority: 1.0 },
-    { url: `${BASE_URL}/about`, changeFrequency: "monthly", priority: 0.8 },
+    { url: BASE_URL, lastModified: now, changeFrequency: "weekly", priority: 1.0 },
+    { url: `${BASE_URL}/about`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     ...categoryUrls,
     ...blogUrls,
   ];

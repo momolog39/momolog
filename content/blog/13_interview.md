@@ -3,7 +3,7 @@ title: "風俗の面接って何を聞かれるの？服装・持ち物・心構
 slug: "13_interview"
 category: "働く前に知るべきこと"
 categorySlug: "before-working"
-description: "こんにちは、桃川です。"
+description: "風俗の面接で聞かれること・服装・持ち物を解説。面接前に準備しておくべきことをまとめました。"
 articleNumber: 13
 image: "/blog/article_13.jpg"
 ---

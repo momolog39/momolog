@@ -3,7 +3,7 @@ title: "ひとりディズニーのすすめ ― 1人で行くからこそ楽し
 slug: "24_solo_disney"
 category: "桃川の日常"
 categorySlug: "daily-life"
-description: "こんにちは、桃川です。"
+description: "ひとりディズニーの楽しみ方ガイド。1人だからこそ味わえるアトラクション・食事・回り方のコツ。"
 articleNumber: 24
 image: "/blog/article_24.jpg"
 ---
