@@ -5,6 +5,7 @@ const BASE_URL =
 
 const DRIP_START = new Date("2026-07-17T00:00:00+09:00");
 const DRIP_INTERVAL_DAYS = 2;
+const DRIP_TOTAL = 25;
 
 function escapeXml(s: string): string {
   return s
@@ -29,15 +30,19 @@ export async function GET() {
     0,
     (now.getTime() - DRIP_START.getTime()) / (1000 * 60 * 60 * 24)
   );
-  const visibleCount = Math.floor(daysSinceStart / DRIP_INTERVAL_DAYS) + 1;
-  const posts = allPosts.slice(0, visibleCount);
+  const visibleCount = Math.min(
+    Math.floor(daysSinceStart / DRIP_INTERVAL_DAYS) + 1,
+    DRIP_TOTAL
+  );
 
-  const items = posts
-    .map((post, i) => {
-      const pubDate = new Date(
-        DRIP_START.getTime() + i * DRIP_INTERVAL_DAYS * 24 * 60 * 60 * 1000
-      );
-      return `
+  const dripPosts = allPosts.slice(0, visibleCount);
+  const newPosts = allPosts.slice(DRIP_TOTAL);
+
+  const dripItems = dripPosts.map((post, i) => {
+    const pubDate = new Date(
+      DRIP_START.getTime() + i * DRIP_INTERVAL_DAYS * 24 * 60 * 60 * 1000
+    );
+    return `
     <item>
       <title>${escapeXml(post.title)}</title>
       <link>${BASE_URL}/blog/${post.slug}</link>
@@ -46,8 +51,21 @@ export async function GET() {
       <guid>${BASE_URL}/blog/${post.slug}</guid>
       <pubDate>${toRfc822(pubDate)}</pubDate>
     </item>`;
-    })
-    .join("");
+  });
+
+  const newItems = newPosts.map((post) => {
+    return `
+    <item>
+      <title>${escapeXml(post.title)}</title>
+      <link>${BASE_URL}/blog/${post.slug}</link>
+      <description>${escapeXml(post.description)}</description>
+      <category>${escapeXml(post.category)}</category>
+      <guid>${BASE_URL}/blog/${post.slug}</guid>
+      <pubDate>${toRfc822(now)}</pubDate>
+    </item>`;
+  });
+
+  const items = [...newItems, ...dripItems].join("");
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
