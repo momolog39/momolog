@@ -37,9 +37,30 @@ export default function RootLayout({
   return (
     <html lang="ja">
       <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
           href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap"
           rel="stylesheet"
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "モモログ",
+              url:
+                process.env.NEXT_PUBLIC_BASE_URL ||
+                "https://momokawa-blog.vercel.app",
+              description:
+                "元芸能マネージャー桃川が、メンズエステ・風俗業界のリアルな情報をお届け。",
+              publisher: {
+                "@type": "Organization",
+                name: "モモログ",
+              },
+            }),
+          }}
         />
         <Script id="gtm" strategy="afterInteractive">{`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

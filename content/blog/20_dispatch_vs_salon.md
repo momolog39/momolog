@@ -5,6 +5,7 @@ category: "メンエス"
 categorySlug: "mens-esthe"
 description: "出張型メンエスと店舗型メンエスの違いを比較。収入・安全性・働きやすさの観点から解説します。"
 articleNumber: 20
+date: "2026-07-14"
 image: "/blog/article_20.jpg"
 ---
 

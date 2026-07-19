@@ -5,6 +5,7 @@ category: "桃川の日常"
 categorySlug: "daily-life"
 description: "ディズニーランドの魅力をシー派の桃川が語る。アトラクション・フード・雰囲気のおすすめポイント。"
 articleNumber: 25
+date: "2026-07-14"
 image: "/blog/article_25.jpg"
 ---
 

@@ -5,6 +5,7 @@ category: "業界基礎知識"
 categorySlug: "industry-basics"
 description: "メンズエステと風俗エステの違いを働く側の視点で徹底比較。サービス内容・報酬・リスクの違いを解説。"
 articleNumber: 4
+date: "2026-07-14"
 image: "/blog/article_04.jpg"
 ---
 

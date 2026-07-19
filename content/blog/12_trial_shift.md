@@ -5,6 +5,7 @@ category: "働く前に知るべきこと"
 categorySlug: "before-working"
 description: "体験入店（体入）の仕組みと流れを解説。チェックすべきポイントや注意点をまとめました。"
 articleNumber: 12
+date: "2026-07-14"
 image: "/blog/article_12.jpg"
 ---
 

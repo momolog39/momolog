@@ -5,6 +5,7 @@ category: "健康・安全"
 categorySlug: "health-safety"
 description: "風俗を辞めたい時の辞め方と次のステップ。円満退職の方法や辞めた後の選択肢を紹介します。"
 articleNumber: 22
+date: "2026-07-14"
 image: "/blog/article_22.jpg"
 ---
 

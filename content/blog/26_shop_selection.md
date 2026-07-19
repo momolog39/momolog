@@ -5,6 +5,7 @@ category: "働く前に知るべきこと"
 categorySlug: "before-working"
 description: "風俗・メンエスのお店選びで失敗しないための5つのチェックポイント。報酬・スタッフ対応・安全管理の確認方法。"
 articleNumber: 26
+date: "2026-07-20"
 image: "/blog/article_26.jpg"
 ---
 

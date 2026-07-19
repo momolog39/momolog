@@ -5,6 +5,7 @@ category: "働く前に知るべきこと"
 categorySlug: "before-working"
 description: "風俗の面接で聞かれること・服装・持ち物を解説。面接前に準備しておくべきことをまとめました。"
 articleNumber: 13
+date: "2026-07-14"
 image: "/blog/article_13.jpg"
 ---
 

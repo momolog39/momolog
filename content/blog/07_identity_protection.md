@@ -5,6 +5,7 @@ category: "働く前に知るべきこと"
 categorySlug: "before-working"
 description: "風俗で働く際の身バレ対策を徹底解説。SNS・住所・名前・写真の管理方法と具体的な対策まとめ。"
 articleNumber: 7
+date: "2026-07-14"
 image: "/blog/article_07.jpg"
 ---
 

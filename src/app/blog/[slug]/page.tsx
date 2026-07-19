@@ -26,6 +26,7 @@ export async function generateMetadata({
         title: post.title,
         description: post.description,
         type: "article",
+        publishedTime: post.date,
         images: [{ url: post.image, width: 1200, height: 600 }],
       },
       twitter: {
@@ -73,6 +74,8 @@ export default async function BlogPost({
     description: post.description,
     image: imageUrl,
     url: articleUrl,
+    datePublished: post.date,
+    dateModified: post.date,
     mainEntityOfPage: { "@type": "WebPage", "@id": articleUrl },
     author: {
       "@type": "Person",

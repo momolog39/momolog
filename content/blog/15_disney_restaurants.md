@@ -5,6 +5,7 @@ category: "桃川の日常"
 categorySlug: "daily-life"
 description: "ディズニーシーの穴場レストランを3店厳選。混雑を避けてゆっくり食事できるおすすめスポット。"
 articleNumber: 15
+date: "2026-07-14"
 image: "/blog/article_15.jpg"
 ---
 

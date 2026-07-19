@@ -5,6 +5,7 @@ category: "健康・安全"
 categorySlug: "health-safety"
 description: "風俗でNGなお客さんが来た時の断り方と対応術を解説。お店への報告の仕方やトラブル回避法。"
 articleNumber: 16
+date: "2026-07-14"
 image: "/blog/article_16.jpg"
 ---
 

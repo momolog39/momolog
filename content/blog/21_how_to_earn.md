@@ -5,6 +5,7 @@ category: "メンエス"
 categorySlug: "mens-esthe"
 description: "メンエスで安定して稼ぐための3つのポイント。指名の取り方・リピーター作り・SNS活用法を解説。"
 articleNumber: 21
+date: "2026-07-14"
 image: "/blog/article_21.jpg"
 ---
 

@@ -5,6 +5,7 @@ category: "健康・安全"
 categorySlug: "health-safety"
 description: "風俗で働く上で必須のコンドームの正しい使い方と選び方。性病予防のための基本知識をまとめました。"
 articleNumber: 5
+date: "2026-07-14"
 image: "/blog/article_05.jpg"
 ---
 

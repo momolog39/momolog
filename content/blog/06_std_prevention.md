@@ -5,6 +5,7 @@ category: "健康・安全"
 categorySlug: "health-safety"
 description: "風俗で気をつけるべき性感染症の種類と予防法を解説。クラミジア・淋病・梅毒・HIVの感染経路と対策。"
 articleNumber: 6
+date: "2026-07-14"
 image: "/blog/article_06.jpg"
 ---
 

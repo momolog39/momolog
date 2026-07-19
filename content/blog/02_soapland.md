@@ -5,6 +5,7 @@ category: "業界基礎知識"
 categorySlug: "industry-basics"
 description: "ソープランドの仕組み・料金体系・働き方を初心者にもわかりやすく解説。風俗で働くことを考えている人に向けた基礎知識。"
 articleNumber: 2
+date: "2026-07-14"
 image: "/blog/article_02.jpg"
 ---
 

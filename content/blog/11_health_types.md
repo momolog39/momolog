@@ -5,6 +5,7 @@ category: "業界基礎知識"
 categorySlug: "industry-basics"
 description: "ヘルス・ホテヘル・箱ヘルなど紛らわしい業種名を整理して解説。それぞれの違いとサービス内容を比較。"
 articleNumber: 11
+date: "2026-07-14"
 image: "/blog/article_11.jpg"
 ---
 

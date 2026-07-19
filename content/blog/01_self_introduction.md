@@ -5,6 +5,7 @@ category: "桃川の日常"
 categorySlug: "daily-life"
 description: "元芸能マネージャー桃川の自己紹介。なぜ風俗・メンエス業界のお仕事紹介を始めたのか、きっかけと想いを語ります。"
 articleNumber: 1
+date: "2026-07-14"
 image: "/blog/article_01.jpg"
 ---
 

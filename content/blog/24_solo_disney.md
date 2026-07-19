@@ -5,6 +5,7 @@ category: "桃川の日常"
 categorySlug: "daily-life"
 description: "ひとりディズニーの楽しみ方ガイド。1人だからこそ味わえるアトラクション・食事・回り方のコツ。"
 articleNumber: 24
+date: "2026-07-14"
 image: "/blog/article_24.jpg"
 ---
 

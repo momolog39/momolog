@@ -5,6 +5,7 @@ category: "桃川の日常"
 categorySlug: "daily-life"
 description: "ディズニーパークでスマホを使った写真の撮り方テクニック。映えるスポットと撮影のコツを紹介。"
 articleNumber: 23
+date: "2026-07-14"
 image: "/blog/article_23.jpg"
 ---
 

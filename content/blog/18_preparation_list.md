@@ -5,6 +5,7 @@ category: "働く前に知るべきこと"
 categorySlug: "before-working"
 description: "風俗の初出勤までに準備するものリスト。持ち物・衣装・身だしなみ・必要書類をまとめました。"
 articleNumber: 18
+date: "2026-07-14"
 image: "/blog/article_18.jpg"
 ---
 

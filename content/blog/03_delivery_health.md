@@ -5,6 +5,7 @@ category: "業界基礎知識"
 categorySlug: "industry-basics"
 description: "デリヘルの仕組み・働き方・報酬体系をわかりやすく解説。メリット・デメリットも含めた業界の基礎知識。"
 articleNumber: 3
+date: "2026-07-14"
 image: "/blog/article_03.jpg"
 ---
 

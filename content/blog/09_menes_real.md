@@ -5,6 +5,7 @@ category: "メンエス"
 categorySlug: "mens-esthe"
 description: "メンズエステの仕事内容と実際の収入を紹介。未経験からの始め方、1日の流れ、リアルな日給まで解説。"
 articleNumber: 9
+date: "2026-07-14"
 image: "/blog/article_09.jpg"
 ---
 

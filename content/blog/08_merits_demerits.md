@@ -5,6 +5,7 @@ category: "働く前に知るべきこと"
 categorySlug: "before-working"
 description: "風俗で働くメリットとデメリットを正直に解説。高収入の裏側にあるリスクや精神的負担も含めたリアルな情報。"
 articleNumber: 8
+date: "2026-07-14"
 image: "/blog/article_08.jpg"
 ---
 

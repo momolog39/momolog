@@ -5,6 +5,7 @@ category: "業界基礎知識"
 categorySlug: "industry-basics"
 description: "風俗と水商売の違いを法律・業種・働き方の観点からわかりやすく解説。混同しやすいポイントを整理。"
 articleNumber: 19
+date: "2026-07-14"
 image: "/blog/article_19.jpg"
 ---
 

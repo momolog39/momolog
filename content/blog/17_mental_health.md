@@ -5,6 +5,7 @@ category: "健康・安全"
 categorySlug: "health-safety"
 description: "風俗で働く中でメンタルを守るための方法を解説。ストレス対処法・相談先・限界サインの見分け方。"
 articleNumber: 17
+date: "2026-07-14"
 image: "/blog/article_17.jpg"
 ---
 

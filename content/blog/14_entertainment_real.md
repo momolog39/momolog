@@ -5,6 +5,7 @@ category: "桃川の日常"
 categorySlug: "daily-life"
 description: "元芸能マネージャー桃川が語る芸能界の裏側。どんな仕事をしていたか、業界のリアルを紹介します。"
 articleNumber: 14
+date: "2026-07-14"
 image: "/blog/article_14.jpg"
 ---
 
