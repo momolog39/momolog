@@ -4,6 +4,7 @@ import { getPostBySlug, getAllSlugs, getPostsByCategory, CATEGORIES } from "@/li
 import { notFound } from "next/navigation";
 import Breadcrumb from "@/components/Breadcrumb";
 import CtaCard from "@/components/CtaCard";
+import ShareButtons from "@/components/ShareButtons";
 import ArticleCard from "@/components/ArticleCard";
 import ProfileCard from "@/components/ProfileCard";
 
@@ -134,6 +135,7 @@ export default async function BlogPost({
               className="prose max-w-none"
               dangerouslySetInnerHTML={{ __html: post.contentHtml }}
             />
+            <ShareButtons title={post.title} slug={post.slug} />
             <CtaCard />
           </article>
 
