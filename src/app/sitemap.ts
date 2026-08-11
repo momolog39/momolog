@@ -1,16 +1,16 @@
 import type { MetadataRoute } from "next";
-import { getAllSlugs, CATEGORIES } from "@/lib/posts";
+import { getAllPosts, CATEGORIES } from "@/lib/posts";
 
 const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://momokawa-blog.vercel.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const slugs = getAllSlugs();
+  const posts = getAllPosts();
 
   const now = new Date().toISOString();
 
-  const blogUrls: MetadataRoute.Sitemap = slugs.map((slug) => ({
-    url: `${BASE_URL}/blog/${slug}`,
-    lastModified: now,
+  const blogUrls: MetadataRoute.Sitemap = posts.map((post) => ({
+    url: `${BASE_URL}/blog/${post.slug}`,
+    lastModified: post.date,
     changeFrequency: "monthly",
     priority: 0.7,
   }));
